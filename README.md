@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/do8rpl9l4/image/upload/v1708359704/Github%20readme/linkedin_banner_current_uszul8.png)](https://github.com/roshith-prakash)
 
 <h1 align="center">Hi, I'm Roshith</h1>
-<h1 align="center">A MERN Stack Web Developer</h1>
+<h1 align="center">A MERN Stack Developer</h1>
 <br>
 
 ### About Me:
@@ -12,7 +12,6 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 </p>
 
 <h3 align="left">Let's Connect:</h3>
-<p  align="left">
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
     <img 
         align="center" 
