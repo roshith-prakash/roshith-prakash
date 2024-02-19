@@ -16,8 +16,9 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshith-prakash" height="30" width="40" />
 </a>
-
-### Let's Talk : **roshithprakash07@gmail.com**
+<a href="mailto:roshithprakash07@gmail.com" target="blank">
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmailmeteor.com%2Flogos%2Fgmail&psig=AOvVaw3RnJY-ssLU7DH5hWOygwtN&ust=1708446282150000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIifrcDot4QDFQAAAAAdAAAAABAE" alt="roshithprakash07@gmail.com" height="30" width="40" />
+</a>
 
 ### </> The Things that I use:
 
