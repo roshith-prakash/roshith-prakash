@@ -12,7 +12,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 </p>
 
 <h3 align="left">Let's Connect:</h3>
-<a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
+<!-- <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
     <img 
         align="center" 
         src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
@@ -24,7 +24,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
         align="center" 
         src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
         alt="roshithprakash07@gmail.com" height="30" width="40" />
-</a>
+</a> -->
 
 ### </> The Things that I use:
 
