@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/do8rpl9l4/image/upload/v1708359704/Github%20readme/linkedin_banner_current_uszul8.png)](https://github.com/roshith-prakash)
 
-<h1 align="center">Hi, I'm Roshith</h1>
+<h1 align="center">Hi, I'm Roshith </h1>
 <h1 align="center">A MERN Stack Developer</h1>
 <br>
 
@@ -8,7 +8,7 @@
 
 <br/>
 <p>
-Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I primarily focus on developing full-stack web applications using the MERN stack.
+Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Driven by a relentless pursuit of excellence, I am poised to make meaningful contributions in the realm of Full Stack Development, leveraging my diverse skill set, attention to detail, and unwavering commitment to innovation and growth. Currently employed at WhatCode - I work on a range of Web2 and Web3 projects, leveraging my skills in frontend and backend development in order to fulfill the requirements. I aspire to learn, grow and build meaningful solutions. Let's Connect!
 </p>
 
 <h3 align="left">Let's Connect:</h3>
@@ -16,7 +16,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
     <img 
         align="center" 
         src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
-        alt="roshithprakash07@gmail.com" height="30" width="40" />
+        alt="mailto:roshithprakash07@gmail.com" height="40" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
