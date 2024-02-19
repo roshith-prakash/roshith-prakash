@@ -8,7 +8,7 @@
 
 <br/>
 <p>
-Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I primarily focus on developing full-stack web applications using the MERN stack. 
+Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I primarily focus on developing full-stack web applications using the MERN stack.I 
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,8 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshith-prakash" height="30" width="40" />
 </a>
-<a href="mailto:roshithprakash07@gmail.com" target="blank" style="margin-left:50px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:roshithprakash07@gmail.com" target="blank">
     <img align="center" src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" alt="roshithprakash07@gmail.com" height="30" width="40" />
 </a>
 
