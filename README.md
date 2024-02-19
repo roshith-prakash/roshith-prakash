@@ -29,7 +29,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
     </a>
 </div>
 
-### </div> The Things that I use:
+### </> The Things that I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -49,6 +49,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 <br/>
-### 📊 GitHub Statistics:
+
+### 📈 GitHub Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
