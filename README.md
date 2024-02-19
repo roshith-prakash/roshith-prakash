@@ -35,5 +35,3 @@
 ### 📊 GitHub Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-
-![Views Counter](https://views-counter.vercel.app/badge?pageId=roshith-prakash&leftColor=2d2d2d&rightColor=ffff80&type=total&label=Viewers&style=none)
