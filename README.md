@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/do8rpl9l4/image/upload/v1708359704/Github%20readme/linkedin_banner_current_uszul8.png)](https://github.com/roshith-prakash)
 
-<h1 align="center">Hi, I'm Roshith </h1>
+<h1 align="center">Hey 👋, I'm Roshith </h1>
 <h1 align="center">A MERN Stack Developer</h1>
 <br>
 
@@ -48,6 +48,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
+<br/>
 ### 📊 GitHub Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
