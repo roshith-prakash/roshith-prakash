@@ -8,7 +8,7 @@
 
 <br/>
 <p>
-Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I primarily focus on developing full-stack web applications using the MERN stack.I 
+Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I primarily focus on developing full-stack web applications using the MERN stack.
 </p>
 
 <h3 align="left">Connect with me:</h3>
