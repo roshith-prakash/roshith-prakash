@@ -14,7 +14,8 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshith-prakash" height="30" width="40" />
 </a>
-<br>Let's Talk : **roshithprakash07@gmail.com**
+
+### Let's Talk : **roshithprakash07@gmail.com**
 
 ### </> The Things that I use:
 
