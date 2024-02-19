@@ -14,7 +14,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshith-prakash" height="30" width="40" />
+    <img align="center" src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" alt="https://www.linkedin.com/in/roshith-prakash" height="30" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:roshithprakash07@gmail.com" target="blank">
@@ -38,7 +38,6 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I pri
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ### 📊 GitHub Statistics:
