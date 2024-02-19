@@ -4,15 +4,19 @@
 
 ### About Me:
 
-<br>📫 Let's Talk : **roshithprakash07@gmail.com**
+<br/>
+<p>
+Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. I primarily focus on developing full-stack web applications using the MERN stack. 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshith-prakash" height="30" width="40" />
 </a>
+<br>Let's Talk : **roshithprakash07@gmail.com**
 
-### 💻 The Things that I use:
+### </> The Things that I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
