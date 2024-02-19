@@ -12,21 +12,23 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 </p>
 
 <h3 align="left">Let's Connect:</h3>
-<a href="mailto:roshithprakash07@gmail.com" target="blank">
-    <img 
-        align="center" 
-        src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
-        alt="mailto:roshithprakash07@gmail.com" height="40" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
-    <img 
-        align="center" 
-        src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
-        alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
-</a>
+<div style="display:flex; justify-items:center;">
+    <a href="mailto:roshithprakash07@gmail.com" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
+            alt="mailto:roshithprakash07@gmail.com" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
+            alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
+    </a>
+</div>
 
-### </> The Things that I use:
+### </div> The Things that I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
