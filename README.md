@@ -10,7 +10,7 @@
 
 <br/>
 <p>
-Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Driven by a relentless pursuit of excellence, I am poised to make meaningful contributions in the realm of Full Stack Development, leveraging my diverse skill set, attention to detail, and unwavering commitment to innovation and growth. Currently employed at WhatCode - I work on a range of Web2 and Web3 projects, leveraging my skills in frontend and backend development in order to fulfill the project requirements. I aspire to learn, grow and build meaningful solutions. Let's Connect!
+Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Driven by a relentless pursuit of excellence, I am poised to make meaningful contributions in the realm of Full Stack Development, leveraging my diverse skill set, attention to detail, and unwavering commitment to innovation and growth. I've worked on a range of Web2 and Web3 projects, leveraging my skills in frontend and backend development in order to fulfill the project requirements. I aspire to learn, grow and build meaningful solutions. Let's Connect!
 </p>
 
 <h3 align="left">Let's Connect:</h3>
