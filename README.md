@@ -4,17 +4,21 @@
 <h1 align="center">A MERN Stack Developer</h1>
 <br>
 
-<a href="https://roshithprakash.vercel.app/" align="center">View my Website🌐</a>
+<p align="center">
+<a href="https://roshithprakash.vercel.app/" style="text-decoration: none">roshithprakash.vercel.app</a>
+</p>
 
-### About Me:
+<br/>
+<h2 align="center">About Me</h3>
 
 <br/>
 <p align="justify">
 Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Driven by a relentless pursuit of excellence, I am poised to make meaningful contributions in the realm of Full Stack Development, leveraging my diverse skill set, attention to detail, and unwavering commitment to innovation and growth. I've worked on a range of Web2 and Web3 projects, leveraging my skills in frontend and backend development in order to fulfill the project requirements. I aspire to learn, grow and build meaningful solutions. Let's Connect!
 </p>
 
-<h3 align="left">Let's Connect:</h3>
-
+<br/>
+<h2 align="center">Let's Connect</h3>
+<br/>
 <div style="display:flex; justify-items:center;">
     <a href="mailto:roshithprakash07@gmail.com" target="blank">
         <img 
@@ -31,7 +35,9 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
     </a>
 </div>
 
-### </> The Things that I use:
+<br/>
+<h2 align="center">The Things That I Use</h3>
+<br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -53,6 +59,8 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-ffffff?logo=firebase)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br/>
 
 <!---
 ### 📈 GitHub Statistics:
