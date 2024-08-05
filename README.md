@@ -19,10 +19,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 <br/>
 <h2 align="center">Let's Connect</h3>
 <br/>
-<div style="margin-left: auto;
-            margin-right: auto;
-            color:transparent;
-            width: 30%">
+<p align="center">
     <a href="mailto:roshithprakash07@gmail.com" target="blank">
         <img 
             align="center" 
@@ -43,7 +40,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
             src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1722840339/internet_tu1esy.png" 
             alt="https://roshithprakash.vercel.app/" height="40" width="40" />
     </a>
-</div>
+</p>
 
 <br/>
 <h2 align="center">The Things That I Use</h3>
