@@ -19,7 +19,10 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 <br/>
 <h2 align="center">Let's Connect</h3>
 <br/>
-<div style="display:flex; justify-items:center;">
+<div style="margin-left: auto;
+            margin-right: auto;
+            color:transparent;
+            width: 30%">
     <a href="mailto:roshithprakash07@gmail.com" target="blank">
         <img 
             align="center" 
@@ -32,6 +35,13 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
             align="center" 
             src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
             alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://roshithprakash.vercel.app/" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1722840339/internet_tu1esy.png" 
+            alt="https://roshithprakash.vercel.app/" height="40" width="40" />
     </a>
 </div>
 
@@ -56,7 +66,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-ffffff?logo=firebase)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-ffffff?logo=firebase&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
