@@ -71,6 +71,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <br/>
+<hr/>
 
 <!---
 ### 📈 GitHub Statistics:
@@ -78,4 +79,7 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 ![](https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 -->
 
+<p align="center">
+<br/>
 <a href="https://app.daily.dev/roshithprakash"><img src="https://api.daily.dev/devcards/v2/xNJYfzuVZHaChn2Yw8mf8.png?r=pd0&type=wide" width="652" alt="Roshith Prakash's Dev Card"/></a>
+</p>
