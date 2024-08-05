@@ -2,11 +2,6 @@
 
 <h1 align="center">Hey 👋, I'm Roshith Prakash </h1>
 <h1 align="center">A MERN Stack Developer</h1>
-<br>
-
-<p align="center">
-<a href="https://roshithprakash.vercel.app/" style="text-decoration: none">roshithprakash.vercel.app</a>
-</p>
 
 <br/>
 <h2 align="center">About Me</h3>
