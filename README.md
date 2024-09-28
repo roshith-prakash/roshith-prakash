@@ -2,20 +2,19 @@
 
 <h1 align="center">Hey 👋, I'm Roshith Prakash </h1>
 <h1 align="center">A MERN Stack Developer</h1>
-<br>
 
-<a href="https://roshithprakash.vercel.app/" align="center">View my Website🌐</a>
-
-### About Me:
+<br/>
+<h2 align="center">About Me</h3>
 
 <br/>
 <p align="justify">
 Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Driven by a relentless pursuit of excellence, I am poised to make meaningful contributions in the realm of Full Stack Development, leveraging my diverse skill set, attention to detail, and unwavering commitment to innovation and growth. I've worked on a range of Web2 and Web3 projects, leveraging my skills in frontend and backend development in order to fulfill the project requirements. I aspire to learn, grow and build meaningful solutions. Let's Connect!
 </p>
 
-<h3 align="left">Let's Connect:</h3>
-
-<div style="display:flex; justify-items:center;">
+<br/>
+<h2 align="center">Let's Connect</h3>
+<br/>
+<p align="center">
     <a href="mailto:roshithprakash07@gmail.com" target="blank">
         <img 
             align="center" 
@@ -28,10 +27,19 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
             align="center" 
             src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
             alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://roshithprakash.vercel.app/" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1722840339/internet_tu1esy.png" 
+            alt="https://roshithprakash.vercel.app/" height="40" width="40" />
     </a>
-</div>
+</p>
 
-### </> The Things that I use:
+<br/>
+<h2 align="center">The Things That I Use</h3>
+<br/>
 
 <div style="display:flex; justify-items:center;">
 
@@ -39,10 +47,17 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 
 </div>
 
+</div>
+<br/>
+<hr/>
+
 <!---
 ### 📈 GitHub Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 -->
 
+<p align="center">
+<br/>
 <a href="https://app.daily.dev/roshithprakash"><img src="https://api.daily.dev/devcards/v2/xNJYfzuVZHaChn2Yw8mf8.png?r=pd0&type=wide" width="652" alt="Roshith Prakash's Dev Card"/></a>
+</p>
