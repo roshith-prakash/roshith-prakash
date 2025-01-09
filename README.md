@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/do8rpl9l4/image/upload/v1708359704/Github%20readme/linkedin_banner_current_uszul8.png)](https://github.com/roshith-prakash)
 
 <h1 align="center">Hey 👋, I'm Roshith Prakash </h1>
-<h1 align="center">A MERN Stack Developer</h1>
+<h1 align="center">A Full Stack Developer</h1>
 
 <br/>
 <h2 align="center">About Me</h3>
