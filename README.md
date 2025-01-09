@@ -84,11 +84,15 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 </p>
 
 <div align="center">
+    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <div align="center">
+    
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
