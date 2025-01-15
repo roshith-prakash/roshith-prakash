@@ -72,16 +72,18 @@ Hey, I am Roshith Prakash, a full-stack web developer based out of Mumbai. Drive
 <br/>
 <hr/>
 
-<!---
+<div align="center">
+    
 ### 📈 GitHub Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
--->
 
-<p align="center">
-<br/>
-<a href="https://app.daily.dev/roshithprakash"><img src="https://api.daily.dev/devcards/v2/xNJYfzuVZHaChn2Yw8mf8.png?r=pd0&type=wide" width="652" alt="Roshith Prakash's Dev Card"/></a>
-</p>
+</div>
+
+<!-- <p align="center"> -->
+<!-- <br/> -->
+<!-- <a href="https://app.daily.dev/roshithprakash"><img src="https://api.daily.dev/devcards/v2/xNJYfzuVZHaChn2Yw8mf8.png?r=pd0&type=wide" width="652" alt="Roshith Prakash's Dev Card"/></a> -->
+<!-- </p> -->
 
 <div align="center">
     
