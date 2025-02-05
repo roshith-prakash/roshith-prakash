@@ -4,8 +4,6 @@
 <h1 align="center">A Full Stack Developer</h1>
 
 <br/>
-<h2 align="center">About Me</h3>
-<br/>
 <h2 align="center">Let's Connect</h3>
 <br/>
 <p align="center">
