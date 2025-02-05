@@ -4,32 +4,6 @@
 <h1 align="center">A Full Stack Developer</h1>
 
 <br/>
-<h2 align="center">Let's Connect</h3>
-<br/>
-<p align="center">
-    <a href="mailto:roshithprakash07@gmail.com" target="blank">
-        <img 
-            align="center" 
-            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
-            alt="mailto:roshithprakash07@gmail.com" height="30" width="40" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
-        <img 
-            align="center" 
-            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
-            alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
-    </a> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://roshithprakash.vercel.app/" target="blank">
-        <img 
-            align="center" 
-            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1722840339/internet_tu1esy.png" 
-            alt="https://roshithprakash.vercel.app/" height="40" width="40" />
-    </a>
-</p>
-
-<br/>
 <h2 align="center">The Things That I Use</h3>
 <br/>
 
@@ -62,6 +36,30 @@
 
 </div>
 <br/>
+<h2 align="center">Let's Connect</h3>
+<br/>
+<p align="center">
+    <a href="mailto:roshithprakash07@gmail.com" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
+            alt="mailto:roshithprakash07@gmail.com" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
+            alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://roshithprakash.vercel.app/" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1722840339/internet_tu1esy.png" 
+            alt="https://roshithprakash.vercel.app/" height="40" width="40" />
+    </a>
+</p>
 <hr/>
 
 <div align="center">
