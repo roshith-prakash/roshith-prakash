@@ -42,29 +42,37 @@ Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passiona
 
 </div>
 <br/>
-<h2 align="center">Let's Connect</h3>
+<h2 align="center">Socials</h3>
 <br/>
 <p align="center">
     <a href="mailto:roshithprakash07@gmail.com" target="blank">
         <img 
             align="center" 
             src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708360066/Github%20readme/tssiox9knhu5aemugrko.png" 
-            alt="mailto:roshithprakash07@gmail.com" height="30" width="40" />
+            alt="Email" height="30" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/roshith-prakash" target="blank">
         <img 
             align="center" 
             src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1708370556/Github%20readme/zmfqqkaowtyy3gfczjvo.webp" 
-            alt="https://www.linkedin.com/in/roshith-prakash" height="40" width="40" />
+            alt="Linkedin" height="40" width="40" />
     </a> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://roshithprakash.vercel.app/" target="blank">
         <img 
             align="center" 
             src="https://res.cloudinary.com/do8rpl9l4/image/upload/v1722840339/internet_tu1esy.png" 
-            alt="https://roshithprakash.vercel.app/" height="40" width="40" />
+            alt="Portfolio site" height="40" width="40" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/roshith_prakash" target="blank">
+        <img 
+            align="center" 
+            src="https://res.cloudinary.com/dvwdsxirc/image/upload/v1740093426/kpmbeboxdu0hvfo7rh39.png" 
+            alt="Twitter (X)" height="40" width="40" />
+    </a>
+
 </p>
 
 <br/>
@@ -79,7 +87,7 @@ Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passiona
 
 </div>
 
-<p align="center" style="padding-top:20">
+<!-- <p align="center" style="padding-top:20">
 <br/>
 <a href="https://app.daily.dev/roshithprakash"><img src="https://api.daily.dev/devcards/v2/xNJYfzuVZHaChn2Yw8mf8.png?r=pd0&type=wide" width="652" alt="Roshith Prakash's Dev Card"/></a>
-</p>
+</p> -->
