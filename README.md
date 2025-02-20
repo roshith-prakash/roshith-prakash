@@ -66,21 +66,20 @@ Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passiona
             alt="https://roshithprakash.vercel.app/" height="40" width="40" />
     </a>
 </p>
-<hr/>
 
-<div align="center">
-    
-### 📈 GitHub Statistics:
+<br/>
+
+<h2 align="center">Github Stats!</h3>
 
 <div style="display:flex; gap:10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true" align="left" width=400/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=400/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width=250 align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width=400/>
 
 </div>
 
-<p align="center">
+<p align="center" style="padding-top:20">
 <br/>
 <a href="https://app.daily.dev/roshithprakash"><img src="https://api.daily.dev/devcards/v2/xNJYfzuVZHaChn2Yw8mf8.png?r=pd0&type=wide" width="652" alt="Roshith Prakash's Dev Card"/></a>
 </p>
