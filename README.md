@@ -71,7 +71,7 @@ Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passiona
 
 <h2 align="center">Github Stats!</h3>
 
-<div style="display:flex; width:100%; justify-content:between;">
+<div style="display:flex; width:100%; justify-content:space-between;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=400/>
 
