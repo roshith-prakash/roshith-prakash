@@ -5,7 +5,7 @@
 
 <br/>
 
-<p align="justify">
+<p align="center">
 Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passionate about building impactful digital solutions, I seamlessly bridge frontend and backend technologies to meet project needs. With a keen eye for detail and a drive for innovation, I’m always learning, growing, and pushing boundaries in Full Stack Development. Let’s connect and build something amazing! 🚀
 </p>
 <br/>
@@ -75,7 +75,7 @@ Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passiona
 
 <img src="https://github-readme-stats.vercel.app/api?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=400/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width=400/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width=350/>
 
 </div>
 
