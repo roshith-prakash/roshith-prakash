@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-Hey, I’m Roshith Prakash, a full-stack web developer based in Mumbai. Passionate about building impactful digital solutions, I seamlessly bridge frontend and backend technologies to meet project needs. With a keen eye for detail and a drive for innovation, I’m always learning, growing, and pushing boundaries in Full Stack Development. Let’s connect and build something amazing! 🚀
+In the heart of Mumbai, where tradition and technology collide, my journey as a full-stack web developer began. I’ve always been passionate about building digital solutions that make an impact — not just lines of code, but meaningful experiences. I thrive at the intersection of frontend finesse and backend logic, seamlessly bridging both worlds to bring ideas to life. With a sharp eye for detail and a constant drive to innovate, I’m always learning, growing, and pushing boundaries. This is more than just development for me — it’s a journey of connection, creativity, and building something amazing. 🚀
 </p>
 <br/>
 
