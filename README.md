@@ -8,6 +8,9 @@
 <p align="center">
 In the heart of Mumbai, where tradition and technology collide, my journey as a full-stack web developer began. I’ve always been passionate about building digital solutions that make an impact — not just lines of code, but meaningful experiences. I thrive at the intersection of frontend finesse and backend logic, seamlessly bridging both worlds to bring ideas to life. With a sharp eye for detail and a constant drive to innovate, I’m always learning, growing, and pushing boundaries. This is more than just development for me — it’s a journey of connection, creativity, and building something amazing. 🚀
 </p>
+
+<p align="center">Currently pursuing MCA from NMIMS MPSTME.</p>
+
 <br/>
 
 <h2 align="center">The Things That I Use</h3>
