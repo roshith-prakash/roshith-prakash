@@ -80,7 +80,7 @@ In the heart of Mumbai, where tradition and technology collide, my journey as a 
 
 <br/>
 
-<h2 align="center">Github Stats!</h3>
+<!-- <h2 align="center">Github Stats!</h3>
 
 <div style="display:flex; width:100%; justify-content:space-between;">
 
@@ -88,7 +88,7 @@ In the heart of Mumbai, where tradition and technology collide, my journey as a 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width=350/>
 
-</div>
+</div> -->
 
 <!-- <p align="center" style="padding-top:20">
 <br/>
